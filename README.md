@@ -1,4 +1,4 @@
-﻿# Essa tela de login foi descartada do meu projeto. 
+﻿# Tela de Sign e Signout em CSS puro 
 
  <h3>Vou deixa-la aqui como forma de estudo de transições CSS</h3>
 
